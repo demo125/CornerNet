@@ -1,0 +1,9 @@
+data/cocoapi
+data/coco/images
+data/coco/annotations_trainval2014.zip
+data/coco/annotations.zip
+data/coco/instances_minival2014.json.zip?dl=0
+data/coco/instances_valminusminival2014.json.zip?dl=0
+data/coco/__MACOSX
+cache
+__pycache__
